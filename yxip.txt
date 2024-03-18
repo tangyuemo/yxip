@@ -1,3 +1,34 @@
+
+
+        'icook.tw:2053#优选域名',
+	       'www.ipchicken.com:8443#官方us',
+        'japancom:8443:8443#官方us',
+        'russiacom:8443#官方us',
+        'wwwipchickencom:8443#官方us',
+        'malaysiacom:8443#官方us',
+        'singaporecom:8443#官方us',
+        'downloadyunzhongzhuancom:8443#官方us',
+        'wwwiplocationnet:8443#官方us',
+        'wwwhugedomainscom:8443#官方us',
+        'wwwwhoernet:8443#官方us',
+        'ipsb:8443:8443#官方us',
+        'iplocationio:8443:8443#官方us',
+        'cfcdn1.sanfencdn9.com:2053#优选域名',
+       	'cfip.xxxxxxxx.tk:2053#优选美国',
+        'proxy.xxxxxxxx.tk:2053#优选日本',
+        'ipdb.api.030101.xyz:2053#优选域名',
+
+
+
+
+
+
+
+
+
+
+
+
 japan.com:8443#cf官方US
 russia.com:8443#cf官方US
 www.ipchicken.com:8443#cf官方US
