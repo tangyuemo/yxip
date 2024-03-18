@@ -1,0 +1,12 @@
+japan.com:8443#cf官方US
+russia.com:8443#cf官方US
+www.ipchicken.com:8443#cf官方US
+malaysia.com:8443#cf官方US
+singapore.com:8443#cf官方US
+download.yunzhongzhuan.com:8443#cf官方US
+www.iplocation.net:8443#cf官方US
+www.hugedomains.com:8443#cf官方US
+www.whoer.net:8443#cf官方US
+ip.sb:8443#cf官方US
+iplocation.io:8443#cf官方US
+
